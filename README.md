@@ -1,4 +1,4 @@
-# dietcoke — Home Server Setup
+# Home Server Setup
 
 Personal homelab running on a repurposed Lenovo IdeaPad 330S-15IKB laptop running Fedora Server, serving as a self-hosted media, productivity, and automation platform.
 
