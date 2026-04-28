@@ -207,3 +207,8 @@ Torrent traffic: qBittorrent → Gluetun (Cloudflare WARP, WireGuard)
 
 /usr/local/bin/        # Custom automation scripts
 ```
+
+---
+
+Built with assistance from AI tools. 
+All scripts are understood, tested, and run in production.
